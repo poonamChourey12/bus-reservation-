@@ -1,16 +1,4 @@
-low Tutorials
 
-C++ PROGRAMMING / C++ PROJECTS0
-C++ Mini Project Bus Reservation System
-BY ALBERTO POWERS · PUBLISHED DECEMBER 29, 2019 · UPDATED DECEMBER 29, 2019
-
-Mini project Bus Reservation System is a mini project in C++. It is done using classes and functions in C++. The record of the bus can be added, a list of available buses, make the reservation and show the details. It is a simple project made using the console application of C++. This means, no graphics component is added. The main target user of this project is the C++ beginners who want to make the project in C++ and especially those who are interested in learning the Class in C++ language. This project is a complete package to learn how to use a file as a database.
-Features of the mini-project are as below:-
-Add the bus record
-Make the Reservation
-Show the bus details
-Show all buses available
-The complete source code for the project is given below:
 /**********************************************************************************
 
     Program Name : Bus Reservation System
